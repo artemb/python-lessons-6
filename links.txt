@@ -1,0 +1,5 @@
+https://www.w3schools.com/python/
+    Удобный сайт, показывающий правила и возможности языка Python
+
+https://pythonworld.ru/samouchitel-python
+    Русскоязычная версия
